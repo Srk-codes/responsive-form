@@ -10,7 +10,7 @@ body {
   max-width: 900px;
   margin: 0 auto;
 }
-.apply-box {
+.apply--box {
   max-width: 600px;
   padding: 20px;
   background-color: white;
