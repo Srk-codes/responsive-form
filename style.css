@@ -59,7 +59,7 @@ button {
   padding: 5px 10px;
   color: white;
   border-radius: 8px;
-  transition: 0.3 ease-in;
+  transition: 0.2 ease-in;
 }
 button:hover {
   background-color: #ccc;
